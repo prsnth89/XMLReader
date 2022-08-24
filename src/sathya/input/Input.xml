@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>  
+<Customers>  
+    <account>  
+    	<id>101</id>  
+    	<name>Prasanth</name>
+        <bankname>icici</bankname>    
+    </account>  
+    <account>    
+        <id>102</id>  
+        <name>Gowtham</name>
+        <bankname>hdfc</bankname>  
+    </account>   
+</Customers>  
